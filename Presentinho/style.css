@@ -1,0 +1,24 @@
+.texto {
+    text-align: center;
+}
+
+.texto button {
+    background-color: red;
+    color: red;
+    border-color: red;
+}
+
+.texto button:hover {
+    background-color: red;
+    color: white;
+    border-color: white;
+}
+
+.textobotao {
+    color: red;
+    text-decoration: none;
+}
+
+.textobotao:hover {
+    color: white;
+}

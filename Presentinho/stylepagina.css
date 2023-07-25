@@ -1,0 +1,24 @@
+body {
+    background-image: url(./Cartão\ 2.png);
+}
+
+.fundo {
+    text-align: center;
+    margin-top: 20px;
+    color: red;
+}
+
+.fundo button {
+    background-color: red;
+    border-color: red;
+}
+
+.fundo button:hover {
+    background-color: #9c0000;
+    border-color: #9c0000;
+}
+
+.textomusica {
+    color: white;
+    text-decoration: none;
+}
